@@ -199,6 +199,9 @@ INSTALLED_APPS = [
     'misago.readtracker',
     'misago.search',
     'misago.faker',
+
+    #gunicorn
+    'gunicorn',
 ]
 
 INTERNAL_IPS = [
